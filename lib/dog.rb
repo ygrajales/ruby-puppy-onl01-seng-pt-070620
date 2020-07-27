@@ -27,24 +27,3 @@ class Dog
     
     
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Message jeffrey currie
-
-Details
-jeffrey currie
-
